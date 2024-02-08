@@ -35,13 +35,14 @@ By Frederick R. Manlusoc
 11. Or you can use the simple webpage to test with the UI.
     - Navigate to NoteTakingApp->UI.
     - Open the webpage by clicking the file or by entering the path in the URL.
-    ## NOTE: I did not put the "required" property on the input fields to enable the tester to test the back-end validation.
+
+    NOTE: I did not put the "required" property on the input fields to enable the tester to test the back-end validation.
 
 
 # App Details
-  Code Editor: Visual Studio Code
-  Run Time: Node JS
-  Backend Framework: Express JS
-  Database: json file
-  UI: HTML, CSS, Bootstrap, SweatAlert2, JQuery, Ajax
-  Development Tool: Nodemon
+- Code Editor: Visual Studio Code
+- Run Time: Node JS
+- Backend Framework: Express JS
+- Database: json file
+- UI: HTML, CSS, Bootstrap, SweatAlert2, JQuery, Ajax
+- Development Tool: Nodemon
