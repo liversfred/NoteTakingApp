@@ -12,6 +12,7 @@ By Frederick R. Manlusoc
 8. Start the server by executing "npm run start:server"
 9. Verify that the server is running. "Server is listening on port {SERVER_PORT}" should appear.
 10. You can hit the endpoints using postman.
+    
     requestHeaders: {
       "Accept": "application/json",
       "Content-Type": "application/json"
@@ -32,7 +33,7 @@ By Frederick R. Manlusoc
         }
     - DELETE /notes/:id: Delete a specific note.
    
-11. Or you can use the simple webpage to test with the UI.
+12. Or you can use the simple webpage to test with the UI.
     - Navigate to NoteTakingApp->UI.
     - Open the webpage by clicking the file or by entering the path in the URL.
 
