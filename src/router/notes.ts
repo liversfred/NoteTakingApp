@@ -6,6 +6,6 @@ export default (router: Router) => {
   router.get('/notes', getAllNotes);
   router.get('/notes/:id', getNoteById);
   router.post('/notes', createNewNote);
-  router.patch('/notes/:id', updateNote);
+  router.put('/notes/:id', updateNote);
   router.delete('/notes/:id', deleteNote);
 };

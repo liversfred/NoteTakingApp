@@ -69,7 +69,7 @@ function updateoteFromDb(){
 
   $.ajax({
     url: `${baseUrl}/notes/${updatedNote.id}`,
-    method: 'PATCH',
+    method: 'PUT',
     headers: {
       'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content'),
       'accept': 'application/json', 
