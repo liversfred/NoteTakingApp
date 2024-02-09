@@ -4,8 +4,8 @@ By Frederick R. Manlusoc
 
 # Setup
 1. Download the source code or close the repository.
-2. Navigate insize NoteTakingApp folder.
-3. Copy .env.example file then rename to ".env"
+2. Navigate inside NoteTakingApp folder.
+3. Copy and paste ".env.example" file, then rename to ".env"
 4. Change the value of "SERVER_PORT" to the desired port if necessary.
 6. Open terminal.
 7. Run "npm install"
